@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Born to be awesome! Awesome environment, awesome people!
